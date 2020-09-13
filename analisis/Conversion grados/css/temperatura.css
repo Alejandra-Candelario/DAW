@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(241, 180, 157);
+}
+
+
+h1 {
+    font-family:"AR CENA";
+    font-weight:700;
+    font-size: 60px;
+    letter-spacing: 1px;
+    margin: 24px auto;
+    text-align: center;
+    text-shadow:  
+                 5px 5px 0px cornsilk;
+    padding: 12px 15px;
+    color: rgb(3, 168, 105);
+    
+
+}
